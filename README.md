@@ -2,8 +2,8 @@
 * Established privately owned businesses at FY2023 and FY2024Q1.
   * Responsible for sales of analytical qualities:
     * Implementation of machine learning models and dashboards wiht Python/R/BigQuery/Tableau/Looker Studio.
-    * Writing of ad-hoc research reports with PowerPoint/Narratives.
-    * Statistical guidance with Python/R/SQL/Excel.
+    * Documentation in ad-hoc investigations with PowerPoint/Narratives.
+    * Instructor in coding with Python/R/SQL/Excel.
   
 * Certified professional in data analytics and algorithm dev with Python/R at Jupyter Notebook:
   * [3x Kaggle Expert](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Evidence_3x_Kaggle_Expert.pdf)
