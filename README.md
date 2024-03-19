@@ -1,5 +1,5 @@
 ### INTRODUCTION
-* Established private businesses as owner at FY2023 and FY2024Q1:
+* Established privately owned businesses at FY2023 and FY2024Q1:
   * Responsible for quality of data analytics, algorithm dev, and advisory support services.
   * Responsible for delivery of statistical guidance with Python/R/Excel.
   * Responsible for sales of both skillset upon quasi-mandate contracts and direct contract as side businesses.
