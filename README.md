@@ -1,5 +1,5 @@
 ### INTRODUCTION
-* Established privately owned businesses in FY2023 and achieved profitability in FY2024Q1~2.
+* Established privately owned businesses in FY2023.
 * Responsible for sales of analytical qualities: ad-hoc data analyses, algorithm dev, optional advisories, etc.
 * Certified professional in marketing analytics, insights reporting, and machine learning modeling with Python/R/SAS:
   * [3x Kaggle Expert](https://drive.google.com/file/d/18UZ3es4fOTga2hnHX6YnxwhDQPHHFZ-n/view)
