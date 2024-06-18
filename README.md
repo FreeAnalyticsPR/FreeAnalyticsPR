@@ -8,7 +8,7 @@
   
 ### PORTFOLIOS
 1. Machine Learning
-    * [Awarded Kaggle Notebooks](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
+    * [Awarded 16 Kaggle Notebooks](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
     * [Anomaly Detection](https://github.com/Satoru-Shibata-JPN/AnomalyDetection/blob/main/README.md)
     * [Recommendation](https://github.com/Satoru-Shibata-JPN/Recommendation/blob/main/README.md)
 1. Visualization
