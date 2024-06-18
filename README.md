@@ -11,7 +11,9 @@
     * [Awarded Kaggle Notebooks](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
     * [Anomaly Detection](https://github.com/Satoru-Shibata-JPN/AnomalyDetection/blob/main/README.md)
     * [Recommendation](https://github.com/Satoru-Shibata-JPN/Recommendation/blob/main/README.md)
+1. Visualization
     * [Business Analytics](https://github.com/Satoru-Shibata-JPN/BusinessAnalytics/blob/main/README.md)
+1. Causal Inference
     * [Economic Forecasting Simulations](https://github.com/Satoru-Shibata-JPN/EconomicForecastingSimulations/blob/main/README.md)
 1. Reporting
     * [Minutes](https://github.com/Satoru-Shibata-JPN/Minutes/blob/main/README.md)
