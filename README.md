@@ -6,12 +6,12 @@
   * [IBM Data Science Professional Certificate](https://www.credly.com/badges/c401bae6-9e5c-4071-8301-871a4283e4b2)
   * [SAS Statistical Business Analyst Professional Certificate](https://www.credly.com/badges/91f1e7d7-33d0-4893-a55e-2270c40e5055)
 
-### 自主制作
-1. 機械学習
-    * [Kaggle投稿](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
-    * [異常値検知](https://github.com/Satoru-Shibata-JPN/AnomalyDetection/blob/main/README.md)
-    * [レコメンド](https://github.com/Satoru-Shibata-JPN/Recommendation/blob/main/README.md)
-1. ダッシュボード
-    * [ビジネスアナリティクス](https://github.com/Satoru-Shibata-JPN/BusinessAnalytics/blob/main/README.md)
-1. 報告書
-    * [議事録](https://github.com/Satoru-Shibata-JPN/Minutes/blob/main/README.md)
+### PORTFOLIOS
+1. Machine Learning
+    * [Awarded Kaggler](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
+    * [Anomaly Detection](https://github.com/Satoru-Shibata-JPN/AnomalyDetection/blob/main/README.md)
+    * [Recommendation](https://github.com/Satoru-Shibata-JPN/Recommendation/blob/main/README.md)
+    * [Business Analytics](https://github.com/Satoru-Shibata-JPN/BusinessAnalytics/blob/main/README.md)
+    * [Economic Forecasting Simulations](https://github.com/Satoru-Shibata-JPN/EconomicForecastingSimulations/blob/main/README.md)
+1. Business Reporting
+    * [Minutes](https://github.com/Satoru-Shibata-JPN/Minutes/blob/main/README.md)
