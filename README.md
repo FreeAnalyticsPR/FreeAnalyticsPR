@@ -1,3 +1,6 @@
+### OBJECTIVE
+* To provide mentorship in data science.
+
 ### SUMMARY
 * Responsible for sales of professional services and established privately owned business in FY2023.
 * Certified professional in business analytics, insights reporting, and machine learning modeling with Python/R/SAS:
