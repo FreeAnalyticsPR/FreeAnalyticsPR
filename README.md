@@ -1,6 +1,5 @@
 ### INTRODUCTION
-* Established privately owned businesses in FY2023.
-* Responsible for sales of analytical qualities: ad-hoc insights, algorithm dev, optional advisories, etc.
+* Responsible for sales of professional services and established privately owned business in FY2023.
 * Certified professional in marketing analytics, insights reporting, and machine learning modeling with Python/R/SAS:
   * [3x Kaggle Expert](https://drive.google.com/file/d/18UZ3es4fOTga2hnHX6YnxwhDQPHHFZ-n/view)
   * [IBM Data Science Professional Certificate](https://www.credly.com/badges/c401bae6-9e5c-4071-8301-871a4283e4b2)
@@ -18,3 +17,5 @@
 1. Reporting
     * [Minutes](https://github.com/Satoru-Shibata-JPN/Minutes/blob/main/README.md)
     * [Reflection Sheet](https://github.com/Satoru-Shibata-JPN/Reflections/blob/main/README.md)
+1. Expertise
+    * [Resume](https://www.coursera.org/user/3df13832d0fc4d5a1f5d652a5fec09cb)
