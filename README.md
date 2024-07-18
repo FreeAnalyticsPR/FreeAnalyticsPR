@@ -1,5 +1,5 @@
 ### OBJECTIVE
-* To provide analytics consulting and mentorship.
+* To provide mentorship in data analytics and AI.
 
 ### SUMMARY
 * Responsible for sales of professional services and established privately owned business in FY2023.
