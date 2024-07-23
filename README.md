@@ -30,6 +30,10 @@
 * [Coconala](https://coconala.com/users/4442709)
 * [Craudia](https://app.craudia.com/user_detail/H9xieF)
 
+### メディア
+* [ビジネス+IT](https://www.sbbit.jp/user/408505)
+* [NewsPicks](https://newspicks.com/user/9563401)
+  
 ### お問い合わせ先
 * [Chatwork](https://www.chatwork.com/2fcjjy0g7uzos)
 * [Wantedly](https://www.wantedly.com/id/satorushibata_jpn)
