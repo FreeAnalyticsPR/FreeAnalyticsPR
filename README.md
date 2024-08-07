@@ -24,7 +24,7 @@
     * [Resume](https://www.coursera.org/user/3df13832d0fc4d5a1f5d652a5fec09cb)
 
 ### ご依頼受付中です！
-1. 分析代行
+1. 調査代行
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
     * [Lancers](https://www.lancers.jp/profile/SatoruShibata)
     * [Coconala](https://coconala.com/users/4442709)
