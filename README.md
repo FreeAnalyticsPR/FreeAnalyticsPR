@@ -32,12 +32,14 @@
 1. 統計指導
     * [MENTA](https://menta.work/user/114932)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
-    * [HiPro Direct](https://talent.direct.hipro-job.jp/talent/profile/c05e2402-ee60-40d7-8cd8-815a23d759e1) 
+    * [HiPro Direct](https://talent.direct.hipro-job.jp/talent/profile/c05e2402-ee60-40d7-8cd8-815a23d759e1)
+1. 案件参画
+    * [Tech Direct](https://techdirect.jp/users/4e98de22-680c-46e7-a6ac-6e10bc6d2f9b)
+    * [Indeed](https://profile.indeed.com/p/cxunvwb)
 ### メディア
 * [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
 * [ビジネス+IT](https://www.sbbit.jp/user/408505)
 * [NewsPicks](https://newspicks.com/user/9563401)
-
 ### お問い合わせ先
 * [Chatwork](https://www.chatwork.com/2fcjjy0g7uzos)
 * [Wantedly](https://www.wantedly.com/id/satorushibata_jpn)
