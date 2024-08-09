@@ -1,6 +1,6 @@
 ### OBJECTIVE
-* To provide mentorship in data science.
-* To deliver analytical specialties in business.
+* To deliver analytical specialties for business issues.
+* To provide statistical mentorship in DX self-manufactures.
 
 ### SUMMARY
 * Responsible for sales of professional services and established privately owned business in FY2023.
