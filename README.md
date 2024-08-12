@@ -1,6 +1,6 @@
-### OBJECTIVE
-* To deliver analytical specialties for business issues.
-* To provide statistical mentorship in DX self-manufactures.
+### OBJECTIVES
+1. To deliver analytical specialties for business issues.
+1. To provide statistical mentorship in DX self-manufactures.
 
 ### SUMMARY
 * Responsible for sales of professional services and established privately owned business in FY2023.
