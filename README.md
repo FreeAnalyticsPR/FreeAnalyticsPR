@@ -1,6 +1,6 @@
-### OBJECTIVES
-1. To deliver analytical specialties for business issues.
-1. To provide statistical mentorship in DX self-manufactures.
+### OBJECTIVE
+* To deliver analytical specialties for business issues.
+* To provide statistical mentorship in DX self-manufactures.
 
 ### SUMMARY
 * Responsible for sales of professional services and established privately owned business in FY2023.
@@ -22,7 +22,7 @@
     * [Minutes](https://github.com/Satoru-Shibata-JPN/Minutes/blob/main/README.md)
     * [Reflection Sheet](https://github.com/Satoru-Shibata-JPN/Reflections/blob/main/README.md)
 1. Expertise
-    * [Resume](https://www.coursera.org/user/3df13832d0fc4d5a1f5d652a5fec09cb)
+    * [Coursera](https://www.coursera.org/user/3df13832d0fc4d5a1f5d652a5fec09cb)
 
 ### ご依頼受付中です！
 1. 分析代行
