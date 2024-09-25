@@ -7,9 +7,9 @@
 1. To provide hands-on mentorship in DX self-manufactures and re-skilling:
     * [MENTA](https://menta.work/user/114932)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
+    * [ストアカ](https://www.street-academy.com/steachers/825437)
     * [HiPro Direct](https://talent.direct.hipro-job.jp/talent/profile/c05e2402-ee60-40d7-8cd8-815a23d759e1)
     * [Indeed](https://profile.indeed.com/p/cxunvwb)
-    * [ストアカ](https://www.street-academy.com/steachers/825437)
  
 ### PORTFOLIOS
 1. Machine Learning
