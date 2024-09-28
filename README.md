@@ -1,10 +1,10 @@
 ### OBJECTIVES
-1. To deliver analytical insights for business issues:
+1. To deliver analytical outsourcing in businesses:
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
     * [Lancers](https://www.lancers.jp/profile/SatoruShibata)
     * [Coconala](https://coconala.com/users/4442709)
     * [Craudia](https://app.craudia.com/user_detail/H9xieF)
-1. To provide hands-on mentorship in DX self-manufactures and re-skilling:
+1. To provide individual mentoring in DX self-manufactures and re-skilling:
     * [MENTA](https://menta.work/user/114932)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
     * [ストアカ](https://www.street-academy.com/steachers/825437)
