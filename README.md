@@ -25,6 +25,5 @@
     * [Reflection Sheet](https://github.com/Satoru-Shibata-JPN/Reflections/blob/main/README.md)
 
 ### CONTACT
-* [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
 * [Chatwork](https://www.chatwork.com/2fcjjy0g7uzos)
 * [Wantedly](https://www.wantedly.com/id/satorushibata_jpn)
