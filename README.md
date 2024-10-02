@@ -22,8 +22,7 @@
     * [Business Analytics](https://github.com/Satoru-Shibata-JPN/BusinessAnalytics/blob/main/README.md)
 1. Causal Inference
     * [Economic Forecasting Simulations](https://github.com/Satoru-Shibata-JPN/EconomicForecastingSimulations/blob/main/README.md)
-1. Reporting
-    * [Minutes](https://github.com/Satoru-Shibata-JPN/Minutes/blob/main/README.md)
+1. Efficiency
     * [Reflection Sheet](https://github.com/Satoru-Shibata-JPN/Reflections/blob/main/README.md)
 
 ### CONTACT
