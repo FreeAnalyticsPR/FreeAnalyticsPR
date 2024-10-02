@@ -1,14 +1,14 @@
 ### OBJECTIVES
-1. To deliver analytical outsourcing in businesses:
+1. To deliver analytical insights:
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
     * [Lancers](https://www.lancers.jp/profile/SatoruShibata)
     * [Coconala](https://coconala.com/users/4442709)
     * [Craudia](https://app.craudia.com/user_detail/H9xieF)
-1. To provide individual mentoring in DX self-manufactures and re-skilling:
+1. To provide individual mentorship:
     * [MENTA](https://menta.work/user/114932)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
     * [ストアカ](https://www.street-academy.com/steachers/825437)
-1. To advise spot cases:
+1. To advise ad-hoc cases:
     * [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
     * [HiPro Direct](https://talent.direct.hipro-job.jp/talent/profile/c05e2402-ee60-40d7-8cd8-815a23d759e1)
     * [Indeed](https://profile.indeed.com/p/cxunvwb)
