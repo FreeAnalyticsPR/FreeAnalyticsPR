@@ -8,9 +8,11 @@
     * [MENTA](https://menta.work/user/114932)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
     * [ストアカ](https://www.street-academy.com/steachers/825437)
+1. To advise spot cases:
+    * [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
     * [HiPro Direct](https://talent.direct.hipro-job.jp/talent/profile/c05e2402-ee60-40d7-8cd8-815a23d759e1)
     * [Indeed](https://profile.indeed.com/p/cxunvwb)
- 
+
 ### PORTFOLIOS
 1. Machine Learning
     * [Awarded 16 Kaggle Notebooks](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
@@ -30,4 +32,3 @@
 ### CONTACT
 * [Wantedly](https://www.wantedly.com/id/satorushibata_jpn)
 * [Chatwork](https://www.chatwork.com/2fcjjy0g7uzos)
-* [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
