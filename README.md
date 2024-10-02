@@ -25,9 +25,6 @@
 1. Reporting
     * [Minutes](https://github.com/Satoru-Shibata-JPN/Minutes/blob/main/README.md)
     * [Reflection Sheet](https://github.com/Satoru-Shibata-JPN/Reflections/blob/main/README.md)
-1. Expertise
-    * [Coursera](https://www.coursera.org/learner/expertise)
-    * [gacco](https://lms.gacco.org/u/SatoruShibata#accomplishments)
 
 ### CONTACT
 * [Wantedly](https://www.wantedly.com/id/satorushibata_jpn)
