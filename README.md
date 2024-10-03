@@ -1,14 +1,14 @@
 ### OBJECTIVES
-1. To deliver analytical insights:
+1. To provide individual mentorship:
+    * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
+    * [MENTA](https://menta.work/user/114932)
+    * [ストアカ](https://www.street-academy.com/steachers/825437)
+1. To service analytics outsourcing:
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
     * [Lancers](https://www.lancers.jp/profile/SatoruShibata)
     * [Coconala](https://coconala.com/users/4442709)
     * [Craudia](https://app.craudia.com/user_detail/H9xieF)
-1. To provide individual mentorship:
-    * [MENTA](https://menta.work/user/114932)
-    * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
-    * [ストアカ](https://www.street-academy.com/steachers/825437)
-
+   
 ### PORTFOLIOS
 1. Machine Learning
     * [Awarded 16 Kaggle Notebooks](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
