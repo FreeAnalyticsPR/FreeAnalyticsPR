@@ -1,9 +1,9 @@
 ### OBJECTIVES
-1. To service personal mentorship:
+1. To provide personal mentorship:
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
     * [MENTA](https://menta.work/user/114932)
     * [ストアカ](https://www.street-academy.com/steachers/825437)
-1. To provide analytics outsourcing:
+1. To service analytical agency:
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
     * [Lancers](https://www.lancers.jp/profile/SatoruShibata)
     * [Coconala](https://coconala.com/users/4442709)
