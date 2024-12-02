@@ -14,6 +14,7 @@
     * [Awarded 16 Kaggle Notebooks](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
     * [Anomaly Detection](https://github.com/Satoru-Shibata-JPN/AnomalyDetection/blob/main/README.md)
     * [Recommendation](https://github.com/Satoru-Shibata-JPN/Recommendation/blob/main/README.md)
+    * [NLP](https://github.com/Satoru-Shibata-JPN/NLP/blob/main/README.md)
 1. Visualization
     * [Business Analytics](https://github.com/Satoru-Shibata-JPN/BusinessAnalytics/blob/main/README.md)
 1. Simulations
