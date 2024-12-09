@@ -20,9 +20,14 @@
 1. Simulations
     * [Econometric Modeling](https://github.com/Satoru-Shibata-JPN/EconometricModeling/blob/main/README.md)
     * [Gaussian Kernels](https://github.com/Satoru-Shibata-JPN/GaussianKernels/blob/main/README.md)
-1. Efficiency
+1. Documentation
+    * [SlideShare](https://www.slideshare.net/ssuser038113)
     * [Reflection Sheet](https://github.com/Satoru-Shibata-JPN/Reflections/blob/main/README.md)
+1. Expertise
+    * [Coursera](https://www.coursera.org/learner/expertise)
+    * [JMOOC](https://lms.gacco.org/u/SatoruShibata)
 
 ### CONTACT
 * [Wantedly](https://www.wantedly.com/id/satorushibata_jpn)
 * [Chatwork](https://www.chatwork.com/2fcjjy0g7uzos)
+* [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
