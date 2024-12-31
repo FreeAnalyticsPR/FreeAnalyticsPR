@@ -1,16 +1,18 @@
 ### OBJECTIVES
+1. To service commissioned analytics:
+    * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
+    * [Lancers](https://www.lancers.jp/profile/SatoruShibata)
+    * [Coconala](https://coconala.com/users/4442709)
+    * [Craudia](https://app.craudia.com/user_detail/H9xieF)
 1. To provide personal mentorship:
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
     * [MENTA](https://menta.work/user/114932)
     * [ストアカ](https://www.street-academy.com/steachers/825437)
 1. To sell disused articles:
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
-1. To service analytical agency:
-    * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
-    * [Lancers](https://www.lancers.jp/profile/SatoruShibata)
-    * [Coconala](https://coconala.com/users/4442709)
-    * [Craudia](https://app.craudia.com/user_detail/H9xieF)
-  
+1. To carry out RPO (Recruitment Process Outsourcing):
+    * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
+
 ### PORTFOLIOS
 1. Machine Learning
     * [Awarded 16 Kaggle Notebooks](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
