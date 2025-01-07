@@ -33,5 +33,5 @@
 
 ### CONTACT
 * [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
-* [Chatwork](https://www.chatwork.com/SatoruShibata)
-* [Wantedly](https://www.wantedly.com/id/satorushibata_jpn)
+* [Chatwork](https://www.chatwork.com/FreeAnalytics)
+* [Wantedly](https://www.wantedly.com/id/FreeAnalytics)
