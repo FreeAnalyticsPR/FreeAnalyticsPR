@@ -10,7 +10,6 @@
     * [ストアカ](https://www.street-academy.com/steachers/825437)
 1. To sell disused articles:
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
-1. To carry out RPO (Recruitment Process Outsourcing):
     * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
 
 ### PORTFOLIOS
