@@ -1,18 +1,12 @@
-### OBJECTIVES
-1. To service commissioned analytics:
+### 提供内容 / OBJECTIVES
+1. 分析代行 / Analytical Agency
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
     * [Lancers](https://www.lancers.jp/profile/SatoruShibata)
-    * [Coconala](https://coconala.com/users/4442709)
-    * [Craudia](https://app.craudia.com/user_detail/H9xieF)
-1. To provide personal mentorship:
+1. 個人指導 / Personal Mentorship
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
     * [MENTA](https://menta.work/user/114932)
-    * [ストアカ](https://www.street-academy.com/steachers/825437)
-1. To sell disused articles:
-    * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
-    * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
 
-### PORTFOLIOS
+### 試作紹介 / PORTFOLIOS
 1. Machine Learning
     * [Awarded 16 Kaggle Notebooks](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
     * [Anomaly Detection](https://github.com/Satoru-Shibata-JPN/AnomalyDetection/blob/main/README.md)
@@ -30,7 +24,7 @@
     * [Coursera](https://www.coursera.org/learner/expertise)
     * [JMOOC](https://lms.gacco.org/u/SatoruShibata)
 
-### CONTACT
+### 連絡先 / CONTACTS
 * [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
 * [Chatwork](https://www.chatwork.com/FreeAnalytics)
 * [Wantedly](https://www.wantedly.com/id/FreeAnalytics)
