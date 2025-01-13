@@ -18,6 +18,10 @@
     * [Econometric Modeling](https://github.com/Satoru-Shibata-JPN/EconometricModeling/blob/main/README.md)
     * [Gaussian Kernels](https://github.com/Satoru-Shibata-JPN/GaussianKernels/blob/main/README.md)
 
+### 対外発信
+* [ビジネス+IT](https://www.sbbit.jp/user/408505)
+* [NewsPicks](https://newspicks.com/user/9563401/)
+
 ### 連絡先 / CONTACTS
 * [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
 * [Chatwork](https://www.chatwork.com/FreeAnalytics)
