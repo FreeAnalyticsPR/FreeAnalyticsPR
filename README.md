@@ -12,11 +12,11 @@
     * [Anomaly Detection](https://github.com/Satoru-Shibata-JPN/AnomalyDetection/blob/main/README.md)
     * [Recommendation](https://github.com/Satoru-Shibata-JPN/Recommendation/blob/main/README.md)
     * [NLP](https://github.com/Satoru-Shibata-JPN/NLP/blob/main/README.md)
-1. Visualization
-    * [Business Analytics](https://github.com/Satoru-Shibata-JPN/BusinessAnalytics/blob/main/README.md)
 1. Simulations
     * [Econometric Modeling](https://github.com/Satoru-Shibata-JPN/EconometricModeling/blob/main/README.md)
     * [Gaussian Kernels](https://github.com/Satoru-Shibata-JPN/GaussianKernels/blob/main/README.md)
+1. Visualization
+    * [Business Analytics](https://github.com/Satoru-Shibata-JPN/BusinessAnalytics/blob/main/README.md)
 
 ### 対外発信 / VOICES
 * [ビジネス+IT](https://www.sbbit.jp/user/408505)
