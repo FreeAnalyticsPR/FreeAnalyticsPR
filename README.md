@@ -18,7 +18,7 @@
     * [Econometric Modeling](https://github.com/Satoru-Shibata-JPN/EconometricModeling/blob/main/README.md)
     * [Gaussian Kernels](https://github.com/Satoru-Shibata-JPN/GaussianKernels/blob/main/README.md)
 
-### 対外発信
+### 対外発信 / VOICES
 * [ビジネス+IT](https://www.sbbit.jp/user/408505)
 * [NewsPicks](https://newspicks.com/user/9563401/)
 
