@@ -1,4 +1,4 @@
-### 提供内容 / OBJECTIVES
+### 提供内容 / DETAILS
 1. 分析代行 / Analytical Agency
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
     * [Lancers](https://www.lancers.jp/profile/SatoruShibata)
