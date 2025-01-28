@@ -18,7 +18,7 @@
 1. Visualization
     * [Business Analytics](https://github.com/Satoru-Shibata-JPN/BusinessAnalytics/blob/main/README.md)
 
-### 連絡先 / CONTACTS
+### お問い合わせ先 / CONTACTS
 * [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
 * [Chatwork](https://www.chatwork.com/FreeAnalytics)
 * [Wantedly](https://www.wantedly.com/id/FreeAnalytics)
