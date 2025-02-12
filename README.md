@@ -1,5 +1,5 @@
 ### 提供内容 / DETAILS
-1. 分析代行 / Analytical Agency
+1. 受託分析 / Commissioned Analytics
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
     * [Lancers](https://www.lancers.jp/profile/SatoruShibata)
 1. 個人指導 / Personal Mentorship
