@@ -1,6 +1,6 @@
 ### 自己紹介 / SUMMARY
-* 役務提供を経験5年で2023年に確立した。試作提案からダッシュボード構築、需要予測モデル搭載、効果検証までの伴走型分析支援を小売・観光・アパレル業界に提供中。個人指導では、研修業界や大学生向けにキャリア相談からハンズオン研修、コードレビュー、質疑応答までスコープとする。受託分析では、依頼内容により報告書、ソースコード及び証拠資料を納品可能。案件依頼は、DMにて承るので、ご検討ください。
-* Established professional services with 5 years of experience in FY2023. Providing escorted analytical supports from prototype proposal, dashboard implementation, demand forecasting models deployment, and effective validation in industries of retail, tourism, and apparel. In mentoring, scope from career advice to hands-on training, code review, and Q&A in training industry and universities. Commissioned analytics deliver reports, source code, and evidence by requests. Please send requests via DM to discuss cases.
+* 役務提供を経験5年で2023年に確立した。試作提案からダッシュボード構築、需要予測モデル搭載、効果検証までの伴走型分析支援を小売・観光・アパレル業界に提供中。個人指導では、研修業界や大学生向けにキャリア相談からハンズオン研修、コードレビュー、質疑応答までスコープとする。分析代行では、依頼内容により報告書、ソースコード及び証拠資料を納品可能。案件依頼は、DMにて承るので、ご検討ください。
+* Established professional services with 5 years of experience in FY2023. Providing escorted analytical supports from prototype proposal, dashboard implementation, demand forecasting models deployment, and effective validation in industries of retail, tourism, and apparel. In mentoring, scope from career advice to hands-on training, code review, and Q&A in training industry and universities. Analytical agency delivers reports, source code, and evidence by requests. Please send requests via DM to discuss cases.
 
 ### 提供内容 / DETAILS
 1. 受託分析 / Commissioned Analytics
