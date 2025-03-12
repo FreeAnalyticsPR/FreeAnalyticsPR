@@ -5,7 +5,8 @@
 1. 分析代行 / Analytical Agency
     * [Lancers](https://www.lancers.jp/menu/detail/1292334)
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
-
+1. 不用品販売 / Secondhand Sales
+    * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
 ### 試作紹介 / PORTFOLIOS
 1. Machine Learning
     * [Awarded 16 Kaggle Notebooks](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
