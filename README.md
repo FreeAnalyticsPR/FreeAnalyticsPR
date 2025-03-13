@@ -2,7 +2,7 @@
 1. 個人指導 / Personal Mentorship
     * [MENTA](https://menta.work/plan/15007?ref=mentor_profile)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
-1. 分析代行 / Analytical Agency
+1. 受託分析 / Commissioned Analytics
     * [Lancers](https://www.lancers.jp/menu/detail/1292334)
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
 1. 不用品販売 / Secondhand Sales
