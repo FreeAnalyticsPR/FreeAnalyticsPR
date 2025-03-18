@@ -2,7 +2,7 @@
 1. 個人指導 / Personal Mentorship
     * [MENTA](https://menta.work/plan/15007?ref=mentor_profile)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
-1. アドホック分析 / Ad-hoc Analysis
+1. アドホック調査分析 / Ad-hoc Survey Analysis
     * [Lancers](https://www.lancers.jp/menu/detail/1292334)
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
 1. 中古品小売 / Second-hand Goods Retail
