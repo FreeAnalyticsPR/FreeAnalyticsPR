@@ -6,9 +6,9 @@
     * [Lancers](https://www.lancers.jp/menu/detail/1292334)
 1. スポット調査 / Spot Survey
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
-1. 中古品小売業 / Second-hand Goods Retailer
+1. 古本屋 / Thrift Bookseller
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
-1. エンジニア採用代行 / Technology Recruitment Outsourcing
+1. 採用代行 / Recruitment Process Outsourcing
     * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
 
 ### 試作紹介 / PORTFOLIOS
