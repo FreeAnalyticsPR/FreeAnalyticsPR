@@ -1,5 +1,5 @@
 ### 提供内容 / DETAILS
-1. オーダーメイド指導 / Personalized Mentorship
+1. 個別指導 / Personalized Mentorship
     * [MENTA](https://menta.work/plan/15007?ref=mentor_profile)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
 1. アドホック分析 / Ad-hoc Analysis
