@@ -5,7 +5,7 @@
 1. 受託分析 / Commissioned Analytics
     * [Lancers](https://www.lancers.jp/menu/detail/1292334)
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
-1. 古本屋 / Thrift Bookseller
+1. リサイクルショップ / Secondhand Store
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
 1. 採用代行 / Recruitment Process Outsourcing
     * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
