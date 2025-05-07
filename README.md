@@ -8,6 +8,7 @@
     * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
 1. リサイクルショップ / Second-hand Store
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
+    * [ジモティー](https://jmty.jp/profiles/631dae4b70194d715b826755)
 
 ### 試作紹介 / PORTFOLIOS
 1. Machine Learning
