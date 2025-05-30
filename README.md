@@ -2,9 +2,10 @@
 1. 個別指導 / Personalized Mentorship
     * [MENTA](https://menta.work/plan/15007?ref=mentor_profile)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
-1. 市場調査 / Market Research
+1. UX調査 / UX Research
     * [Lancers](https://www.lancers.jp/menu/detail/1292334)
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
+1. 面談仲介 / Matching Assistance
     * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
 1. リサイクルショップ / Second-hand Store
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
@@ -21,7 +22,8 @@
     * [Gaussian Kernels](https://github.com/Satoru-Shibata-JPN/GaussianKernels/blob/main/README.md)
 1. Visualization
     * [Business Analytics](https://github.com/Satoru-Shibata-JPN/BusinessAnalytics/blob/main/README.md)
-
+1. Expertise
+   * [Coursera](https://www.coursera.org/learner/expertise)
 ### お問い合わせ先 / CONTACTS
 * [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
 * [Tech Direct](https://techdirect.jp/users/4e98de22-680c-46e7-a6ac-6e10bc6d2f9b)
