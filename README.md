@@ -9,21 +9,19 @@
     * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
 1. リサイクルショップ / Thrift Store
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
-    * [ジモティー](https://jmty.jp/profiles/631dae4b70194d715b826755)
 
 ### 試作紹介 / PORTFOLIOS
-1. Machine Learning
+1. 機械学習 / Machine Learning
     * [Awarded 16 Kaggle Notebooks](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
     * [Anomaly Detection](https://github.com/Satoru-Shibata-JPN/AnomalyDetection/blob/main/README.md)
     * [Recommendation](https://github.com/Satoru-Shibata-JPN/Recommendation/blob/main/README.md)
     * [NLP](https://github.com/Satoru-Shibata-JPN/NLP/blob/main/README.md)
-1. Simulations
+1. シミュレーション / Simulations
     * [Econometric Modeling](https://github.com/Satoru-Shibata-JPN/EconometricModeling/blob/main/README.md)
     * [Gaussian Kernels](https://github.com/Satoru-Shibata-JPN/GaussianKernels/blob/main/README.md)
-1. Visualization
+1. 可視化 / Visualization
     * [Business Analytics](https://github.com/Satoru-Shibata-JPN/BusinessAnalytics/blob/main/README.md)
-1. Expertise
-   * [Coursera](https://www.coursera.org/learner/expertise)
+
 ### お問い合わせ先 / CONTACTS
 * [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
 * [Tech Direct](https://techdirect.jp/users/4e98de22-680c-46e7-a6ac-6e10bc6d2f9b)
