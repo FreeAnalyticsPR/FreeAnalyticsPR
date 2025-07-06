@@ -5,7 +5,7 @@
 1. 単発調査 / Ad-hoc Survey
     * [Lancers](https://www.lancers.jp/menu/detail/1292334)
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
-1. 面談仲介 / Interview Matchmaking
+1. 面談仲介 / Interview Broker
     * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
 1. リサイクルショップ / Thrift Store
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
