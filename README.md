@@ -7,7 +7,7 @@
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
 1. 面談仲介 / Interview Broker
     * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
-1. リサイクルショップ / Thrift Store
+1. 古本屋 / Used Bookstore
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
 
 ### 試作紹介 / PORTFOLIOS
