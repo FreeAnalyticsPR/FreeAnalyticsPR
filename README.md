@@ -2,9 +2,10 @@
 1. 個別指導 / Personalized Mentorship
     * [MENTA](https://menta.work/plan/15007?ref=mentor_profile)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
-1. 単発調査 / Ad-hoc Survey
+1. 分析代行 / Analytics Agency
     * [Lancers](https://www.lancers.jp/menu/detail/1292334)
     * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
+    * [Chatwork](https://www.chatwork.com/FreeAnalytics)
 1. 面談仲介 / Interview Broker
     * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
 1. 古本屋 / Thrift Bookseller
@@ -26,4 +27,3 @@
 * [一般社団法人プロフェッショナル＆パラレルキャリア・フリーランス協会](https://www.freelance-jp.org/talents/27761)
 * [Tech Direct](https://techdirect.jp/users/4e98de22-680c-46e7-a6ac-6e10bc6d2f9b)
 * [Wantedly](https://www.wantedly.com/id/FreeAnalytics)
-* [Chatwork](https://www.chatwork.com/FreeAnalytics)
