@@ -31,5 +31,5 @@
    * [Credly](https://www.credly.com/users/satoru-shibata/badges#credly)
    * [gacco](https://lms.gacco.org/u/SatoruShibata#accomplishments)
 1. 記述演習 / Coding
-   * [HackerRank](https://www.hackerrank.com/profile/satorushibata)
-   * [DataCamp](https://www.datacamp.com/portfolio/satorushibata)
+   * [HackerRank](https://www.hackerrank.com/profile/FreeAnalytics)
+   * [DataCamp](https://www.datacamp.com/portfolio/FreeAnalytics)
