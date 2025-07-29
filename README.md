@@ -11,7 +11,7 @@
 1. 面談仲介 / Interview Broker
     * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
 1. 販売代行 / Sales Agency
-   * [スカウト代行サービス「offerBrain](https://offerbrain.jp/)
+   * [スカウト代行サービス「offerBrain」](https://offerbrain.jp/)
    * [中小企業向けDX研修サービス（リノシード株式会社）](https://linoseed.co.jp/)
 1. 古本屋 / Used Bookstore
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
