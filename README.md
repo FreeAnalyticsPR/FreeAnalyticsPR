@@ -13,7 +13,7 @@
 1. 販売代行 / Sales Agency
    * [スカウト代行サービス「offerBrain」](https://offerbrain.jp/)
    * [中小企業向けDX研修サービス（リノシード株式会社）](https://linoseed.co.jp/)
-1. 古本屋 / Used Bookstore
+1. リサイクルショップ / Thrift Shop
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
 
 ### 試作紹介 / PORTFOLIOS
