@@ -29,10 +29,7 @@
     * [Business Analytics](https://github.com/Satoru-Shibata-JPN/BusinessAnalytics/blob/main/README.md)
 
 ### 認定資格 / CERTIFICATION
-1. 専門知識 / Expertise
-   * [Coursera](https://www.coursera.org/learner/satoru-shibata)
-   * [Credly](https://www.credly.com/users/satoru-shibata/badges#credly)
-   * [gacco](https://lms.gacco.org/u/SatoruShibata#accomplishments)
-1. 記述演習 / Coding
-   * [HackerRank](https://www.hackerrank.com/profile/FreeAnalytics)
-   * [DataCamp](https://www.datacamp.com/portfolio/FreeAnalytics)
+* [Coursera](https://www.coursera.org/learner/satoru-shibata)
+* [Credly](https://www.credly.com/users/satoru-shibata/badges#credly)
+* [HackerRank](https://www.hackerrank.com/profile/FreeAnalytics)
+* [gacco](https://lms.gacco.org/u/SatoruShibata#accomplishments)
