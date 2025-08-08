@@ -32,4 +32,3 @@
 * [Coursera](https://www.coursera.org/learner/satoru-shibata)
 * [Credly](https://www.credly.com/users/satoru-shibata/badges#credly)
 * [HackerRank](https://www.hackerrank.com/profile/FreeAnalytics)
-* [gacco](https://lms.gacco.org/u/SatoruShibata#accomplishments)
