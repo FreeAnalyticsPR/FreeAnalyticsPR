@@ -5,14 +5,8 @@
 1. 個別指導 / Personalized Mentorship
     * [MENTA](https://menta.work/plan/15007?ref=mentor_profile)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
-1. 資料代筆 / Writing Agency
-    * [Lancers](https://www.lancers.jp/menu/detail/1292334)
-    * [CrowdWorks](https://crowdworks.jp/public/employees/5696943)
 1. 面談仲介 / Interview Broker
     * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
-1. 販売代行 / Sales Agency
-   * [スカウト代行サービス「offerBrain」](https://offerbrain.jp/)
-   * [中小企業向けDX研修サービス（リノシード株式会社）](https://linoseed.co.jp/)
 1. リサイクルショップ / Thrift Shop
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
 
