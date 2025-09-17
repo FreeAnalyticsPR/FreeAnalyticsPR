@@ -1,7 +1,7 @@
 ### 提供内容 / DETAILS
-1. 人月案件 / Person-month Project
+1. 依頼遂行 / Requests Conduct
     * [Tech Direct](https://techdirect.jp/users/4e98de22-680c-46e7-a6ac-6e10bc6d2f9b)
-    * [Chatwork](https://www.chatwork.com/FreeAnalytics)
+    * [Lancers](https://www.lancers.jp/menu/detail/1292334)
 1. 個別指導 / Personalized Mentorship
     * [MENTA](https://menta.work/plan/15007?ref=mentor_profile)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
