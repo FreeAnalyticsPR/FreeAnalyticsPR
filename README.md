@@ -18,6 +18,7 @@
 1. 数値試算 / Simulations
     * [Econometric Modeling](https://github.com/Satoru-Shibata-JPN/EconometricModeling/blob/main/README.md)
     * [Gaussian Kernels](https://github.com/Satoru-Shibata-JPN/GaussianKernels/blob/main/README.md)
+    * [Dynamic Programming](https://github.com/FreeAnalyticsPR/DynamicProgramming/blob/main/README.md)
 1. 可視化 / Visualization
     * [Business Analytics](https://github.com/Satoru-Shibata-JPN/BusinessAnalytics/blob/main/README.md)
 
