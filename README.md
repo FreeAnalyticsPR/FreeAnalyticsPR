@@ -5,8 +5,8 @@
     * [MENTA](https://menta.work/plan/15007?ref=mentor_profile)
     * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
 1. 面談仲介 / Interview Broker
-    * [候補者紹介状](https://docs.google.com/forms/d/e/1FAIpQLSc6XFzYcY2UBKbGplD6tDiPAWw2-wgZnRl5DxQ_njkw87WYsA/viewform?usp=sharing)
-1. リサイクルショップ / Thrift Shop
+    * [TimeRex](https://timerex.net/s/FreeAnalytics/eaae1263/)
+1. 古本屋 / Thrift Bookseller
     * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
 
 ### 試作紹介 / PORTFOLIOS
