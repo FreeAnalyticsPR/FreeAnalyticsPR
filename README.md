@@ -1,14 +1,3 @@
-### 提供内容 / DETAILS
-1. 人月案件 / Person-month Project
-    * [Tech Direct](https://techdirect.jp/users/4e98de22-680c-46e7-a6ac-6e10bc6d2f9b)
-1. 個別指導 / Personalized Mentorship
-    * [MENTA](https://menta.work/plan/15007?ref=mentor_profile)
-    * [TechMe](https://techme.jp/expert/43ce202e-8b83-4b54-b8e1-c8103cf993f5)
-1. 面談仲介 / Interview Broker
-    * [TimeRex](https://timerex.net/s/FreeAnalytics/eaae1263/)
-1. 古本屋 / Thrift Bookseller
-    * [メルカリ](https://jp.mercari.com/user/profile/272985491?status=on_sale)
-
 ### 試作紹介 / PORTFOLIOS
 1. 機械学習 / Machine Learning
     * [Awarded 16 Kaggle Notebooks](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/README.md)
